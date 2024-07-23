@@ -1,0 +1,4 @@
+venv file create : python -m venv venv
+flask install : pip install -U flask
+use karapu lib balaganna : pip freeze 
+libry version file ekak hadaganna : pip freeze>req.txt
